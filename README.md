@@ -6,7 +6,8 @@ Don’t think inside the box - Make the robot think
 
 # Summary
 
-* Ages: 15 and up must turn 15 by 12.31.2016 Skill Level: Beginner - Advanced
+* Ages: 15 and up must turn 15 by 12.31.2016
+* Skill Level: Beginner - Advanced
 * Ratio Guarantee: 6 students per instructor
 * Prerequisite: None - willing to learn and actively participate
 * Hardware: Raspberry Pi3, Grove Sensors, BrickPI, Mindstorm EV3, Adruino
