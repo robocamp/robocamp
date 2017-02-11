@@ -40,4 +40,35 @@ In case the address is changing we will inform  registered students and parents.
 
 Camp times 9am - 3pm. Students can enroll in more than one camp.
 
+# What we will do 
+
+## Make it sense
+
+A robot will need to be aware of its environment. You will be learning how to use sensors to interact with the environment.
+
+## Make it think
+
+You will need to analyze  the environmental inputs and will develop programs that take the input and provide reactions and plan on what to do with this data.
+
+## Make it act
+
+Now that you have sensed your environment and created a plan of what to do, its time to act and conduct tasks that you have identified.
+
+## Have fun learning
+
+Most importantly, this is a team activity with other students. We want you to have fun and actively participate while integrating your own thoughts
+
+# Example Projects
+
+We list here some sample projects. Projects may be adjusted based on interest and experience of the students
+
+# Brain Computer Interface 
+
+In this project you will be using a sensor that can be placed on your head and measures brain activities. The computer will interpret specific brain waves in order to control an intelligent system remotely. This may include a drivable robot. You will be contrasting contemplative and meditative states and assign specific actions to them that are than executed on an Adruino based drivable robot. The communication between the brain wave sensor and the robot is conducted through Bluetooth. Such an interface could have significant impact to design intelligent systems to control prosthetics
+
+# World Wide Road Kill
+
+A team of 5th and 6th graders had the idea to remove roadkill from roads with autonomous drones that get notified via cell phone from cars passing by. We will explore this idea further and create a drone simulator that includes a number of advanced sensors to simulate a flight into the vicinity of the roadkill, locate it, identify it through neural nets that interface with a camera. Then we will simulate the drone landing and picking up the roadkill. Naturally, if we can pick up roadkill, we could pick up other things, such as packages or pizza, or deploy them in areas that are hazardous to humans. We could use supercomputers to control many drones.
+
+
 
