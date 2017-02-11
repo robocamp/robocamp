@@ -1,3 +1,9 @@
+# Summer School Thinking Robots 
+
+Indiana University
+
+Don’t think inside the box - Make the robot think
+
 # Summary
 
 * Ages: 15 and up must turn 15 by 12.31.2016 Skill Level: Beginner - Advanced
@@ -13,4 +19,25 @@ Robotics will become an important part of  the 21st century’s life and infrast
 # Disclaimer
 
 Image on the front page copied and modified from: http://www.pcworld.com/article/2069020/from-android-to-automations-rubins-robots-are-googles-next-moonshot.html 
+
+# Contact
+
+## Instructors
+
+The summer school on Thinking Robots will be lead by Dr. Gregor von Laszewski, Dr. Badi' Abdul-Wahid, and Dr. Martin Swany . Please contact Gregor for more information:  gvonlasz@indiana.edu 
+
+## Location and Time
+
+The summer school will be hosted on the Indiana University campus in the Smith Research Center.
+2805 E 10th St, Bloomington, IN 47408
+
+In case the address is changing we will inform  registered students and parents.
+
+* Camp R.I:    July 10 - 14, Ages 15 - younger than 18
+* Camp R.II:   July 17 - 21, Ages 15 - younger than 18
+* Camp R.III:  July 17 - 21, Ages 18+
+* Camp R.IV:  July 24 - 28, Ages 18+
+
+Camp times 9am - 3pm. Students can enroll in more than one camp.
+
 
